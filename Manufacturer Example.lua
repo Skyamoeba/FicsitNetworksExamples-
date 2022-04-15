@@ -1,3 +1,5 @@
+--Works for all machines thet produce
+
 Name = "Rotor" -- Change this to the machine you want to connect to
 
 Machine = component.proxy(component.findComponent(Name)[1])
